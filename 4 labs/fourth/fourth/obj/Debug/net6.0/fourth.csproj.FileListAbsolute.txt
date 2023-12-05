@@ -1,0 +1,14 @@
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\fourth\fourth\bin\Debug\net6.0\fourth.exe
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\fourth\fourth\bin\Debug\net6.0\fourth.deps.json
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\fourth\fourth\bin\Debug\net6.0\fourth.runtimeconfig.json
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\fourth\fourth\bin\Debug\net6.0\fourth.dll
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\fourth\fourth\bin\Debug\net6.0\ref\fourth.dll
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\fourth\fourth\bin\Debug\net6.0\fourth.pdb
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\fourth\fourth\obj\Debug\net6.0\fourth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\fourth\fourth\obj\Debug\net6.0\fourth.AssemblyInfoInputs.cache
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\fourth\fourth\obj\Debug\net6.0\fourth.AssemblyInfo.cs
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\fourth\fourth\obj\Debug\net6.0\fourth.csproj.CoreCompileInputs.cache
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\fourth\fourth\obj\Debug\net6.0\fourth.dll
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\fourth\fourth\obj\Debug\net6.0\ref\fourth.dll
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\fourth\fourth\obj\Debug\net6.0\fourth.pdb
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\fourth\fourth\obj\Debug\net6.0\fourth.genruntimeconfig.cache
